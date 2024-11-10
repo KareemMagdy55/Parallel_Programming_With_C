@@ -1,0 +1,8 @@
+K:/Kareem's/Programming vol.3/OpenMP/cmake-build-debug/CMakeFiles/p0.dir
+K:/Kareem's/Programming vol.3/OpenMP/cmake-build-debug/CMakeFiles/p1.dir
+K:/Kareem's/Programming vol.3/OpenMP/cmake-build-debug/CMakeFiles/p2.dir
+K:/Kareem's/Programming vol.3/OpenMP/cmake-build-debug/CMakeFiles/p3.dir
+K:/Kareem's/Programming vol.3/OpenMP/cmake-build-debug/CMakeFiles/omp2.dir
+K:/Kareem's/Programming vol.3/OpenMP/cmake-build-debug/CMakeFiles/Project1.dir
+K:/Kareem's/Programming vol.3/OpenMP/cmake-build-debug/CMakeFiles/edit_cache.dir
+K:/Kareem's/Programming vol.3/OpenMP/cmake-build-debug/CMakeFiles/rebuild_cache.dir

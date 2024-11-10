@@ -1,0 +1,105 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project1",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Project1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Project1-Debug-fe5140137ce726a54325.json",
+					"name" : "Project1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "omp2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-omp2-Debug-721e3c358a3e7bc948a6.json",
+					"name" : "omp2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "p0::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-p0-Debug-1062078c5fa981779020.json",
+					"name" : "p0",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "p1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-p1-Debug-031c6ba154cdf3743ce9.json",
+					"name" : "p1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "p2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-p2-Debug-87fc28b2caa88d6f7cbc.json",
+					"name" : "p2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "p3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-p3-Debug-d7fb5f03d95357d88ef7.json",
+					"name" : "p3",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "K:/Kareem's/Programming vol.3/OpenMP/cmake-build-debug",
+		"source" : "K:/Kareem's/Programming vol.3/OpenMP"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
